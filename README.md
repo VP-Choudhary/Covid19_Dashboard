@@ -1,4 +1,4 @@
-# Data Visualization Project: Interactive Web Portal for Covid-19 Statistics for India [link](https://github.iitj.ac.in/kumar-222/data-visualization-project)
+# Data Visualization Project: Interactive Web Portal for Covid-19 Statistics for India
 
 ## Table of Contents
 
