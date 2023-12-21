@@ -21,7 +21,7 @@ In this project, We've developed a dashboard using python libraries Plotly Dash 
 1. Global comparisons of deaths and cases due to Covid-19.
 2. Headlines regarding Covid-19, scraped from BBC news.
 3. Pie Charts showing Vaccination progress in the India.
-4. Heatmaps and Bar charts for the deaths and cases due to Covid-19 with respect to the UK's regions.
+4. Heatmaps and Bar charts for the deaths and cases due to Covid-19 with respect to the Indian States.
 5. Bar chart for max and min transmission rate of coronavirus over the year.
 6. Daily hospitalization capacity of Covid-19 Patients in the UK.
 7. Bar chart representing the number of Mechanical Ventilation beds occupied by Covid-19 patients.
